@@ -1,0 +1,4 @@
+.sidebar {
+  height: max(100vh, 100%);
+  background-color: #192f48;
+}

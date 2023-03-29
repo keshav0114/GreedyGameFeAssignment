@@ -1,0 +1,140 @@
+{
+  "cache_time": 20,
+  "data": [
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "app_id": "123456",
+      "requests": 1056217,
+      "responses": 1056123,
+      "impressions": 1056030,
+      "clicks": 1055093,
+      "revenue": 210.86619492425925
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "app_id": "789652",
+      "requests": 1016411,
+      "responses": 1016352,
+      "impressions": 1015954,
+      "clicks": 1015526,
+      "revenue": 54.161261647854126
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "app_id": "741553",
+      "requests": 1028546,
+      "responses": 1028516,
+      "impressions": 1028321,
+      "clicks": 1027933,
+      "revenue": 404.24753877312355
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "app_id": "986321",
+      "requests": 1024723,
+      "responses": 1024638,
+      "impressions": 1024614,
+      "clicks": 1023788,
+      "revenue": 124.11032218835591
+    },
+    {
+      "date": "2021-05-01T00:00:00Z",
+      "app_id": "320248",
+      "requests": 1090835,
+      "responses": 1090809,
+      "impressions": 1090744,
+      "clicks": 1090334,
+      "revenue": 169.50800345303875
+    },
+    {
+      "date": "2021-05-02T00:00:00Z",
+      "app_id": "123456",
+      "requests": 1088820,
+      "responses": 1088746,
+      "impressions": 1088583,
+      "clicks": 1087867,
+      "revenue": 293.9956453477001
+    },
+    {
+      "date": "2021-05-02T00:00:00Z",
+      "app_id": "789652",
+      "requests": 1024407,
+      "responses": 1024374,
+      "impressions": 1024330,
+      "clicks": 1023546,
+      "revenue": 101.20929636988927
+    },
+    {
+      "date": "2021-05-02T00:00:00Z",
+      "app_id": "741553",
+      "requests": 1082957,
+      "responses": 1082941,
+      "impressions": 1082488,
+      "clicks": 1082364,
+      "revenue": 218.70025995563566
+    },
+    {
+      "date": "2021-05-02T00:00:00Z",
+      "app_id": "986321",
+      "requests": 1068126,
+      "responses": 1068106,
+      "impressions": 1067715,
+      "clicks": 1066780,
+      "revenue": 190.4201501529399
+    },
+    {
+      "date": "2021-05-02T00:00:00Z",
+      "app_id": "320248",
+      "requests": 1079565,
+      "responses": 1079497,
+      "impressions": 1079267,
+      "clicks": 1078284,
+      "revenue": 14.34233211081371
+    },
+    {
+      "date": "2021-05-03T00:00:00Z",
+      "app_id": "123456",
+      "requests": 1062080,
+      "responses": 1062023,
+      "impressions": 1061970,
+      "clicks": 1061965,
+      "revenue": 56.0403216893463
+    },
+    {
+      "date": "2021-05-03T00:00:00Z",
+      "app_id": "789652",
+      "requests": 1067644,
+      "responses": 1067612,
+      "impressions": 1067387,
+      "clicks": 1066739,
+      "revenue": 279.3126783449987
+    },
+    {
+      "date": "2021-05-03T00:00:00Z",
+      "app_id": "741553",
+      "requests": 1046110,
+      "responses": 1046031,
+      "impressions": 1045828,
+      "clicks": 1045264,
+      "revenue": 191.73725901128728
+    },
+    {
+      "date": "2021-05-03T00:00:00Z",
+      "app_id": "986321",
+      "requests": 1037247,
+      "responses": 1037230,
+      "impressions": 1037222,
+      "clicks": 1036516,
+      "revenue": 15.786139939300822
+    },
+    {
+      "date": "2021-05-03T00:00:00Z",
+      "app_id": "320248",
+      "requests": 1075205,
+      "responses": 1075175,
+      "impressions": 1074914,
+      "clicks": 1073955,
+      "revenue": 48.3895525175976
+    }
+  ]
+}
